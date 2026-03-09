@@ -83,7 +83,7 @@ On the test set, the model achieves **98.41% accuracy**. Below are a few example
 <img width="437" height="492" alt="Screenshot 2026-03-09 170355" src="https://github.com/user-attachments/assets/8cac052d-3b83-469c-994e-fe49df5b473b" />
 
 
-<img width="510" height="492" alt="Screenshot 2026-03-09 170500" src="https://github.com/user-attachments/assets/d6075123-b85b-4cf2-9038-ec68ad10903a" />
+<img width="447" height="492" alt="Screenshot 2026-03-09 170500" src="https://github.com/user-attachments/assets/323d285d-3861-4f31-85ca-0c4e7054d760" />
 
 
 All examples shown are correct, confirming the model's strong performance on this synthetic dataset.
